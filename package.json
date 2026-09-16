@@ -1,0 +1,15 @@
+{
+  "name": "otto-catering-restaurant",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build.mjs && node scripts/verify.mjs",
+    "build:cloudflare-pages": "npm run build",
+    "dev": "node scripts/serve.mjs",
+    "verify": "node scripts/verify.mjs",
+    "preview:cloudflare-pages": "npx wrangler@4.132.0 pages dev dist --ip 127.0.0.1 --port 4215",
+    "deploy:cloudflare-pages": "npm run build && npx wrangler@4.132.0 pages deploy dist"
+  },
+  "engines": { "node": ">=22" }
+}

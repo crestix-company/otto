@@ -1,0 +1,10 @@
+source-assets/
+node_modules/
+.wrangler/
+.openai/
+.DS_Store
+LOCAL_SOURCES.md
+*.zip
+qa/
+scripts/prepare-assets.cjs
+scripts/inspect-assets.cjs

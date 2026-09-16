@@ -1,0 +1,86 @@
+{
+  "signature": {
+    "source": "line_oa_chat_260916_181442_group_0.jpg",
+    "width": 1566,
+    "height": 1044,
+    "bytes": 168882
+  },
+  "seasonal": {
+    "source": "line_oa_chat_260916_181439_group_0.jpg",
+    "width": 900,
+    "height": 1600,
+    "bytes": 245766
+  },
+  "gathering": {
+    "source": "line_oa_chat_260916_181439_group_1.jpg",
+    "width": 1280,
+    "height": 866,
+    "bytes": 246638
+  },
+  "celebration": {
+    "source": "line_oa_chat_260916_181441_group_1.jpg",
+    "width": 900,
+    "height": 1600,
+    "bytes": 224024
+  },
+  "dessert": {
+    "source": "line_oa_chat_260916_181441_group_8.jpg",
+    "width": 1280,
+    "height": 960,
+    "bytes": 165288
+  },
+  "villa": {
+    "source": "line_oa_chat_260916_181441_group_7.jpg",
+    "width": 1280,
+    "height": 960,
+    "bytes": 129892
+  },
+  "fish": {
+    "source": "line_oa_chat_260916_181442_group_9.jpg",
+    "width": 1600,
+    "height": 900,
+    "bytes": 278192
+  },
+  "small-plates": {
+    "source": "line_oa_chat_260916_181442_group_2.jpg",
+    "width": 1108,
+    "height": 1477,
+    "bytes": 297952
+  },
+  "catering-table": {
+    "source": "line_oa_chat_260916_181442_group_6.jpg",
+    "width": 1600,
+    "height": 900,
+    "bytes": 351292
+  },
+  "vegetables": {
+    "source": "line_oa_chat_260916_181444_group_9.jpg",
+    "width": 1567,
+    "height": 1045,
+    "bytes": 83606
+  },
+  "course": {
+    "source": "line_oa_chat_260916_181444_group_8.jpg",
+    "width": 1567,
+    "height": 1045,
+    "bytes": 84218
+  },
+  "soup": {
+    "source": "line_oa_chat_260916_181444_group_4.jpg",
+    "width": 1477,
+    "height": 1108,
+    "bytes": 163298
+  },
+  "bento": {
+    "source": "line_oa_chat_260916_181441_group_2.jpg",
+    "width": 1477,
+    "height": 1108,
+    "bytes": 232114
+  },
+  "warm-dish": {
+    "source": "line_oa_chat_260916_181444_group_7.jpg",
+    "width": 1108,
+    "height": 1477,
+    "bytes": 271044
+  }
+}
